@@ -7,15 +7,12 @@ Welcome to Tensorflow2 Object Detection API Guide's documentation!
 ==================================================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Table of Contents
+   :maxdepth: 5
+   :caption: Contents
 
    Intro
-   TestModule
+   Install
+   CustomDataset
+   Training
+   ExampleCode
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
