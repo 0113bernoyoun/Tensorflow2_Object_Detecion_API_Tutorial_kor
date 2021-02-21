@@ -7,7 +7,7 @@ Welcome to Tensorflow2 Object Detection API Guide's documentation!
 ==================================================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 5
    :caption: Contents
 
    Intro
@@ -16,4 +16,3 @@ Welcome to Tensorflow2 Object Detection API Guide's documentation!
    Training
    ExampleCode
 
-refer : https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/
