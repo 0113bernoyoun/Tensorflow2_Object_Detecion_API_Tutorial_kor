@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Tensorflow2 Object Detection API Guide's documentation!
+Tensorflow2 Object Detection API tutorial 문서 입니다.
 ==================================================================
 
 .. toctree::

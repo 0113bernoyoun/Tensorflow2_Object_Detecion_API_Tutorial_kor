@@ -1,6 +1,6 @@
-Intro
+들어가며
 ======================================
-.. important:: This tutorial is worked on my pc.This tutorial works on my PC. So I can't believe it works perfectly on your PC.
+.. important:: 제 환경에서는 정상 동작을 해서 잘 쓰고 있습니다. 다른 튜토리얼이나 가이드 문서가 그렇듯 그대로 따라해도 안될 수 있는데 그건 같이 연구해보겠습니다..
 
 
     refer[1] : `tensorflow2 object detection api tutorial <https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/>`_.
@@ -8,7 +8,7 @@ Intro
     refer[2] : `tensorflow github <https://github.com/tensorflow/models/tree/master/research/object_detection>`_.
 
 +---------------------------------------------+
-| my Server PC SW/HW                          |
+| Server PC SW/HW                             |
 +==============+==============================+
 | OS           | ubuntu 18.04                 |
 +--------------+------------------------------+
